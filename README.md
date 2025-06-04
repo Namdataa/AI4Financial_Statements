@@ -1,8 +1,9 @@
 # AI-for-financial-statement
+![image](https://github.com/user-attachments/assets/f8370e1c-fbd7-422a-a577-9a4286f598d4)
 
 # Cách chạy dự án
 ## Yêu cầu môi trường:
-- Python 3.11 [Downloaf link](https://www.python.org/downloads/release/python-3110/)
+- Python 3.11 [Download link](https://www.python.org/downloads/release/python-3110/)
 ## Ở thư mục gốc:
 - Tạo file .env và thêm nội dung với định dạng
 ```
