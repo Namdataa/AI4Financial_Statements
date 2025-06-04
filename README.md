@@ -3,7 +3,8 @@
 
 # Cách chạy dự án
 ## Yêu cầu môi trường:
-- Python 3.11 [Download link](https://www.python.org/downloads/release/python-3110/)
+- Python 3.11 [Link](https://www.python.org/downloads/release/python-3110/)
+- Model Detect_table (VietNam Financial Statements) [Link](https://drive.google.com/file/d/1bLWEgYt6bkARQ2NktKlk0KOoh9zRODnx/view?usp=sharing)
 ## Ở thư mục gốc:
 - Tạo file .env và thêm nội dung với định dạng
 ```
